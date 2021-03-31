@@ -1,0 +1,33 @@
+player character - bunny
+enemy or NPC - snake
+
+
+rules - 
+1) there will be carrots scattered around the maze.
+2) the snake will try to eat the bunny.
+3) there will be power ups in the form of green carrots.
+4)the bunny's lives - 1 
+
+
+maintaining the balance -
+1) when eaten, these green carrots will give the player the ability to go through walls for 20 seconds.
+2) the goal of the bunny (pc) is to eat all the carrots without getting eaten by the snake.
+3) the snake will get larger and faster as the game goes on. 
+4) the rabiit will also get faster.
+
+
+THE ELEMENT OF CHANCE.
+the snake and the green carrots are random.
+THE ELEMENT OF SKILL.
+the player has to maneuver the rabbit to win.
+
+immediate feedback-
+1)score
+2) start and game over death sound effects.
+
+STORY-:
+
+you are an adult male bunny that has to go fetch some carrots for your bunny family,
+but this does put you in danger as there is a snake trying to eat you. 
+YOU the player have to maneuver the rabbit in a way such that it doesn't get eaten and also get all the 
+carrots.
